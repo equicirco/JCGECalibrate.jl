@@ -10,10 +10,10 @@ Removed: For features removed in this release.
 Fixed: For any bug fixes.
 Security: For vulnerabilities.
 
-## [0.1.0] - unreleased
+## [0.1.0] - 2026-01-12
 ### Added
-- Project layout and package boundaries.
-- Initial block-based modeling interfaces and RunSpec structure.
-- Calibration and output utilities with canonical data schema.
-- Example models and integration tests.
-- Documentation scaffolding and package docs.
+- Core JCGECalibrate module with labeled vectors/matrices for SAM-style data.
+- Canonical CSV loaders for sets, labels, subsets, params, and SAM tables.
+- Starting value and calibration parameter computation from SAM inputs.
+- CES helper utilities (rho/sigma conversions and share/scale calibration stub).
+- Package docs and usage walkthrough for calibration workflows.
