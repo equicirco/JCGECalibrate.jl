@@ -2,7 +2,7 @@
 
 julia_version = "1.12.3"
 manifest_format = "2.0"
-project_hash = "be50861c6bad618dd4d24be01d7cb94aeef1caf9"
+project_hash = "b1ed34a98c46024bc71a966bb1ed55806ac1532d"
 
 [[deps.Artifacts]]
 uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
@@ -119,7 +119,7 @@ version = "1.0.0"
 deps = ["CSV", "DataFrames", "Test"]
 path = "."
 uuid = "52bcf1bb-5715-4bdb-b809-8ade53bb6205"
-version = "0.0.0"
+version = "0.1.0"
 
 [[deps.JuliaSyntaxHighlighting]]
 deps = ["StyledStrings"]
