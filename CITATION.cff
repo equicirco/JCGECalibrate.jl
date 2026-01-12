@@ -3,7 +3,7 @@ title: JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.
 message: >-
   v0.1.0 - Initial public release.
 type: software
-doi: ''
+doi: 10.5281/zenodo.18225968
 authors:
   - given-names: Riccardo
     family-names: Boero
@@ -12,7 +12,7 @@ authors:
     affiliation: NILU
 identifiers:
   - type: doi
-    value: ''
+    value: 10.5281/zenodo.18225968
     description: This DOI represents all software versions.
 repository-code: 'https://github.com/equicirco/JCGECalibrate.jl'
 url: 'https://equicirco.github.io/JCGECalibrate.jl/'
