@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.
+title: JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.
 message: >-
   v0.1.0 - Initial public release.
 type: software

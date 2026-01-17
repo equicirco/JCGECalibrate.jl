@@ -81,14 +81,14 @@ URL: https://JCGE.org
 
 If you use this package, please cite:
 
-Boero, R. *JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.* [software], 2026.
+Boero, R. *JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.* [software], 2026.
 DOI: 10.5281/zenodo.18225968
 URL: https://equicirco.github.io/JCGECalibrate.jl/
 SourceCode: https://github.com/equicirco/JCGECalibrate.jl
 
 ```bibtex
 @software{boero_jcgecalibrate_2026,
-  title  = {JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.},
+  title  = {JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.},
   author = {Boero, Riccardo},
   year   = {2026},
   doi    = {10.5281/zenodo.18225968},
