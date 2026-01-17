@@ -7,5 +7,5 @@
 </picture>
 ```
 
-`JCGECalibrate` is part of the <a href="https://jcge.org">JCGE</a> ecosystem. This page provides the package
+`JCGECalibrate` is part of the [JCGE](https://jcge.org) ecosystem. This page provides the package
 overview and entry points; the API reference is on the next page.
