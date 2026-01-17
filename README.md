@@ -10,7 +10,7 @@
 A Computable General Equilibrium (CGE) model is a quantitative economic model that represents an economy as interconnected markets for goods and services, factors of production, institutions, and the rest of the world. It is calibrated with data (typically a Social Accounting Matrix) and solved numerically as a system of nonlinear equations until equilibrium conditions (zero-profit, market-clearing, and income-balance) hold within tolerance.
 
 ## What is JCGE?
-JCGE is a block-based CGE modeling and execution framework in Julia. It defines a shared RunSpec structure and reusable blocks so models can be assembled, validated, solved, and compared consistently across packages.
+<a href="https://jcge.org">JCGE</a> is a block-based CGE modeling and execution framework in Julia. It defines a shared RunSpec structure and reusable blocks so models can be assembled, validated, solved, and compared consistently across packages.
 
 ## What is this package?
 Calibration utilities for common CGE functional forms.
@@ -60,3 +60,40 @@ map into `params.csv` as `name` entries:
 
 ## Non-goals
 - Model building or equation definitions
+
+## How to cite
+
+If you use the <a href="https://jcge.org">JCGE</a> framework, please cite:
+
+Boero, R. *JCGE - Julia Computable General Equilibrium Framework* [software], 2026.
+DOI: 10.5281/zenodo.18282436
+URL: https://JCGE.org
+
+```bibtex
+@software{boero_jcge_2026,
+  title  = {JCGE - Julia Computable General Equilibrium Framework},
+  author = {Boero, Riccardo},
+  year   = {2026},
+  doi    = {10.5281/zenodo.18282436},
+  url    = {https://JCGE.org}
+}
+```
+
+If you use this package, please cite:
+
+Boero, R. *JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.* [software], 2026.
+DOI: 10.5281/zenodo.18225968
+URL: https://equicirco.github.io/JCGECalibrate.jl/
+SourceCode: https://github.com/equicirco/JCGECalibrate.jl
+
+```bibtex
+@software{boero_jcgecalibrate_2026,
+  title  = {JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.jl.},
+  author = {Boero, Riccardo},
+  year   = {2026},
+  doi    = {10.5281/zenodo.18225968},
+  url    = {https://equicirco.github.io/JCGECalibrate.jl/}
+}
+```
+
+If you use a specific tagged release, please cite the version DOI assigned on Zenodo for that release (preferred for exact reproducibility).
