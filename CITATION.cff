@@ -15,7 +15,7 @@ identifiers:
     value: 10.5281/zenodo.18225968
     description: This DOI represents all software versions.
 repository-code: 'https://github.com/equicirco/JCGECalibrate.jl'
-url: 'https://equicirco.github.io/JCGECalibrate.jl/'
+url: 'https://Calibrate.JCGE.org'
 abstract: >-
   JCGECalibrate.jl loads SAM data and computes calibrated parameters and starting values for standard CGE formulations.
 keywords:

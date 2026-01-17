@@ -20,7 +20,7 @@ If you use this package, please cite:
 
 Boero, R. *JCGECalibrate.jl - Calibration utilities for CGE models in JCGE.* [software], 2026.
 DOI: 10.5281/zenodo.18225968
-URL: https://equicirco.github.io/JCGECalibrate.jl/
+URL: https://Calibrate.JCGE.org
 SourceCode: https://github.com/equicirco/JCGECalibrate.jl
 
 ```bibtex
@@ -29,7 +29,7 @@ SourceCode: https://github.com/equicirco/JCGECalibrate.jl
   author = {Boero, Riccardo},
   year   = {2026},
   doi    = {10.5281/zenodo.18225968},
-  url    = {https://equicirco.github.io/JCGECalibrate.jl/}
+  url    = {https://Calibrate.JCGE.org}
 }
 ```
 
